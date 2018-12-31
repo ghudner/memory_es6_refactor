@@ -1,4 +1,4 @@
-# Memory Game
+# Memory Game with ES6
 
 ## Description
 
