@@ -16,4 +16,4 @@ You turn over one tile and then try to finding a matching tile. Currently, it is
 
 ## Technical report
 
-[click](https://medium.com/@mikyung.lee11/memory-game-with-javascript-5e07f296dc49)
+[click](https://medium.com/@mikyung.lee11/memory-game-with-javascript-es6-c9f32e1e49e0)
