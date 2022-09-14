@@ -8,8 +8,8 @@ export const htmlElements = {
 
 export const wrapAsClass = className => `.${className}`;
 
-export const completeImageName = imgNum => `img/${imgNum}.png`;
+export const completeImageName = imgNum => "img/1.png";
 
-export const backImage = "img/back.png";
+export const backImage = "img/1.png";
 
 export const boardBackgroundColor = "white";

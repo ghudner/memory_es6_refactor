@@ -18,7 +18,7 @@ export const createGameBoard = cards => {
       (html, element, cindex) =>
         html.concat(
           "",
-          `<div class="item c_${rindex}_${cindex}" data-value="${element}"><img src="${backImage}" /></div>`
+          `<div class="item c_${rindex}_${cindex}" data-value="${element}"><img src="${backImage}" height="10px"/></div>`
         ),
       ""
     )
